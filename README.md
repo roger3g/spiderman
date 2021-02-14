@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ícone do projeto" title="" src=".github/" width="400px" />
+  <img alt="Ícone do projeto" title="" src=".github/spiderman-text.png" width="400px" />
 </h1>
 
 <p align="center">
