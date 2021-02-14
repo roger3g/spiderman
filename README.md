@@ -16,6 +16,10 @@
   - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   - [SASS](https://sass-lang.com/)
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
+  - [JQuery](https://jquery.com/)
+  - [TiltJs](https://gijsroge.github.io/tilt.js/)
+  - [TweenMax](https://greensock.com/docs/v2/TweenMax)
+  - [SVG Inject](https://github.com/iconfu/svg-inject)
   
 - **Back-End**
   - [Node.js](https://nodejs.org/en/)
